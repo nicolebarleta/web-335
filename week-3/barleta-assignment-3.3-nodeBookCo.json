@@ -1,0 +1,35 @@
+{
+    "author_first_name": "Nicole",
+    "author_last_name": "Barleta",
+    "author_phone": "123-456-1237",
+    "author_email": "nicolebarleta@gmail.com",
+    "book":[
+       { 
+        "book_name":"Tigger",
+        "book_price": 100,
+        "book_isbn": "978-3-16-148410-0",
+        "book_publisher":[
+            {
+                "publisher_name": "Diwa publishing",
+                "publisher_code": 101,
+                "publisher_address": "Chicago, IL"
+            }
+        ]
+       },
+       
+       { 
+        "book_name":"Elsa",
+        "book_price": 150,
+        "book_isbn": "978-4-17-147480-0",
+        "book_publisher":[
+            {
+                "publisher_name": "Diwa publishing",
+                "publisher_code": 101,
+                "publisher_address": "Chicago, IL"
+            }
+        ]
+       }
+    ]
+
+    
+}

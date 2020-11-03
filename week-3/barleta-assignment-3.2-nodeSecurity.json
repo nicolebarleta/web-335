@@ -1,0 +1,45 @@
+{
+    "_id":"101",
+    "firstName": "Nicole",
+    "lastName": "Barleta",
+    "role": [
+        {
+            "_id": "E101",
+            "type": "Administrator",
+            "permission": [
+                {   
+                    "_id": "P1",
+                    "action": "Read" 
+                },
+                {
+                    "_id":"P2",
+                    "action": "Write"
+                },
+                {
+                    "_id":"P3",
+                    "action": "Update"
+                },
+                {
+                    "_id": "P4",
+                    "action": "Delete"
+                }
+            ]
+        },
+        {
+            "_id": "E102",
+            "type": "Employee",
+            "permission": [
+                {
+                    "_id": "P1",
+                    "action": "Read" 
+                },
+                {
+                    "_id":"P2",
+                    "action": "Write"
+                }
+    
+            ]
+    
+        }
+    ]
+}

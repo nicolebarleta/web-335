@@ -1,16 +1,13 @@
-const nodeShopper_customer = {
-
-    customer: [
-        {
-            _id:"101",
-            first_name: "Nicole",
-            last_name: "Barleta",
-            date_of_birth: "12/04/1992",
-            user_name: "nicolebarleta"
+   {
+            "_id":"101",
+            "first_name": "Nicole",
+            "last_name": "Barleta",
+            "date_of_birth": "12/04/1992",
+            "user_name": "nicolebarleta"
 
 
         }
-    ],
+    
 
         invoice: [
             {
