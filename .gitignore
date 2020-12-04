@@ -130,3 +130,9 @@ dmypy.json
 
 # ignore ds_store
 .DS_Store
+
+# PhpStorm
+.idea
+
+# VSCode
+.vscode
