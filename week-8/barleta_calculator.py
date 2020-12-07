@@ -55,7 +55,7 @@ elif value == "sub":
 elif value == "div":
     print(("The quotient of two numbers is: ") + str(divide(8, 2)))
 
-#this will show the user that their input is invalid if the input not among the three valid input
+#this will show the user that their input is invalid if the input is not among the three valid input
 else:
     print("Invalid input try again")
 
