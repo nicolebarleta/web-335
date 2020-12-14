@@ -9,14 +9,20 @@
 
 """
 
+#importing from pymongo and mongoclient
+
 from pymongo import MongoClient
 
+#importing pretty print
 import pprint
 
+#importing date time module
 import datetime
 
+#conneting to localhost mongodb
 client = MongoClient('localhost', 27017)
 
+#connecting to web335 database
 db = client.web335
 
 #creating a new user to be inserted
