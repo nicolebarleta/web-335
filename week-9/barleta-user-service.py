@@ -4,7 +4,7 @@
 ; Author: Professor Krasso
 ; Date: 14 December 2020
 ; Modified By: Marie Nicole Barleta
-; Description:  Creating document example and findOne query
+; Description:  Creating and inserting document / findOne query
 ;===========================================
 
 """
