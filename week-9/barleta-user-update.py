@@ -4,7 +4,7 @@
 ; Author: Professor Krasso
 ; Date: 14 December 2020
 ; Modified By: Marie Nicole Barleta
-; Description:  Updating and Deleting documents
+; Description:  Updating documents
 ;===========================================
 
 """
